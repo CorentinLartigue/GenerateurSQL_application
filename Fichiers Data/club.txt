@@ -1,0 +1,13 @@
+﻿CodeC;NomC;AdresseC;VilleC;CPC;TelC
+C1;SF Belleville;;Verdun;55100;
+C2;SCA Epinal;;Epinal;88000;
+C3;USL Mineenne;;St Mihiel;55300;
+C4;FC Toul;;Toul;54200;
+C5;US Etain;;Etain;55400;
+C6;ESP Lunéville;;Lunéville;54300;
+C7;FC Velaines;;Velaines;55500;
+C8;FCSTD;;Saint Dié;88100;
+C9;District Vosges;;Epinal;88000;
+C10;FC Val Dunois;;Behonne;55000;
+C11;FC Bruch Forbach;;Forbach;76000;
+C12;FC Commercy;;Velaines;55500;

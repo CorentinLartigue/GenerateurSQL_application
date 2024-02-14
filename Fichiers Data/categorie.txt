@@ -1,0 +1,3 @@
+﻿CodeCat;LibelleC
+S1;Junior
+S2;Senior
